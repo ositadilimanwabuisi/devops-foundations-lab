@@ -1,0 +1,12 @@
+2026-07-12 08:00:01 INFO Server started successfully
+2026-07-12 08:01:15 INFO Loading configuration files
+2026-07-12 08:02:30 WARNING Disk usage at 75%
+2026-07-12 08:03:45 ERROR Database connection failed
+2026-07-12 08:04:00 INFO Retrying database connection
+2026-07-12 08:05:10 ERROR Authentication service timeout
+2026-07-12 08:06:20 WARNING Memory usage above 80%
+2026-07-12 08:07:30 INFO User login successful
+2026-07-12 08:08:45 ERROR Failed to write to disk
+2026-07-12 08:09:00 INFO Backup process started
+2026-07-12 08:10:15 WARNING CPU temperature high
+2026-07-12 08:11:30 INFO Daily report generated
